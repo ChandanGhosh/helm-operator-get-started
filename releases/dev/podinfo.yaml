@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: chandanghosh/podinfo
-      tag: dev-n2gmqefc
+      tag: dev-voi1rk23
     replicaCount: 1
     hpa:
       enabled: false
